@@ -20,9 +20,9 @@ if __name__=="__main__":
         layout="centered"
     )
 
-    st.title("Test cyanure client_julie")
+    st.title("Process de valorisation des emballages vides souillés")
 
-    st.write("Auteur : Brahim AIT OUALI  - Technicien chimiste")
+    st.write("Auteur : Jenna TADJER  - Responsable Commerciale BTP ")
   
    
    
@@ -37,17 +37,6 @@ if __name__=="__main__":
     st.sidebar.image(img2, width=250)
 
 
-    st.write("Echantillon d'eaux souillées")
-    st.image(img3, width=900)
-    
-    st.write("Procédure")
-    st.image(img4, width=900)
-    
-    st.image(img5, width=900)
-    
-    st.write("Réultat")
-    st.image(img6, width=900)
-    
     st.write("CONCLUSION: aucune coloration observée, pas de présence de cyanures")
     
 
