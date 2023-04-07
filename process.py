@@ -34,7 +34,12 @@ if __name__=="__main__":
     st.sidebar.image(img2, width=250)
 
 
-    st.write("CONCLUSION: aucune coloration observée, pas de présence de cyanures")
+    st.write("Il existe plusieurs traitements des déchets:
+             - le recyclage
+             - La régénération
+             - Le réemploi
+             - La valorisation énergétique")
+             
     
 
 
