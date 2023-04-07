@@ -36,7 +36,7 @@ if __name__=="__main__":
 
 
     st.write("Il existe plusieurs traitements des déchets:")
-    st.write("         - le recyclage")
+   
     st.write("         - le recyclage")
     st.write("         - La régénération")
     st.write("         - Le réemploi")
