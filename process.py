@@ -42,7 +42,7 @@ if __name__=="__main__":
     st.write("         - La valorisation énergétique")
     
     st.write(" Pour les emballages vides souillés, il s'agit d'une valorisation énergétique")
-    st.write("Lorsqu’un déchet ne peut plus être exploité pour sa matière et qu’il n’est pas recyclable, il existe une autre solution : la valorisation énergétique. Le déchet est transformé en énergie comme la chaleur, l’électricité ou le carburant. Cette solution se substitue aux énergies fossiles")
+    st.write("Lorsqu’un déchet ne peut plus être exploité pour sa matière et qu’il n’est pas recyclable, la solution est la valorisation énergétique. Le déchet est transformé en énergie comme la chaleur, l’électricité ou le carburant. Cette solution se substitue aux énergies fossiles")
 
     st.write("La valorisation dans son ensemble, dont le but est que des déchets soient utilisés en substitution à d’autres matières ou produits, est aussi un type de traitement des déchets. Cependant, le traitement des déchets n’est pas le même suivant leur nature.")
              
