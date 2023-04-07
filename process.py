@@ -34,11 +34,12 @@ if __name__=="__main__":
     st.sidebar.image(img2, width=250)
 
 
-    st.write("Il existe plusieurs traitements des déchets:
-             - le recyclage
-             - La régénération
-             - Le réemploi
-             - La valorisation énergétique")
+    st.write("Il existe plusieurs traitements des déchets:")
+    st.write("         - le recyclage")
+    st.write("         - le recyclage")
+    st.write("         - La régénération")
+    st.write("         - Le réemploi")
+    st.write("         - La valorisation énergétique")
              
     
 
