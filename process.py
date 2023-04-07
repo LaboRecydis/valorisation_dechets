@@ -28,7 +28,8 @@ if __name__=="__main__":
    
     # Display the LOGO
     img1 = Image.open("IMG_PAPREC.jpg")
-    img2 = Image.open("IMG_RECYDIS.jfif") 
+    img2 = Image.open("IMG_RECYDIS.jfif")
+    img3 = Image.open("process_val.jpg")
     
     st.sidebar.image(img1, width=250)
     st.sidebar.image(img2, width=250)
@@ -46,7 +47,7 @@ if __name__=="__main__":
 
     st.write("La valorisation dans son ensemble, dont le but est que des déchets soient utilisés en substitution à d’autres matières ou produits, est aussi un type de traitement des déchets. Cependant, le traitement des déchets n’est pas le même suivant leur nature.")
              
-    
+    st.image(img3, width=900)
 
 
   
